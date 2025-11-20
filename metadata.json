@@ -1,0 +1,7 @@
+{
+  "name": "SpeakFluency - AI English Tutor",
+  "description": "Real-time English conversation practice with Gemini Live API using interactive scenarios.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
